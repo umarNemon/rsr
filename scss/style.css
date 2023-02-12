@@ -1,0 +1,381 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Noto+Serif+Display:ital,wght@0,600;1,500;1,600;1,900&family=Oswald&family=Pacifico&family=Poppins&family=Rajdhani&display=swap");
+body {
+  font-family: 'Poppins';
+  font-weight: 400;
+}
+
+header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  -webkit-box-shadow: 0 0 20px #9c9393;
+          box-shadow: 0 0 20px #9c9393;
+}
+
+.navbar-collapse {
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.sectionOne {
+  padding-top: 150px;
+}
+
+.nav-link {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.btn-get {
+  font-size: 18px;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 59px;
+}
+
+h2, p, h6 {
+  font-weight: 400;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+.buttomLink {
+  padding: 10px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.sectionThree {
+  background-color: #222222;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.sectionThree .container .row .col-12 h6 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.sectionThree .container .row .col-12 h2 {
+  font-weight: 400;
+}
+
+.sectionThree .container .row .item {
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.sectionThree .container .row h3 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.sectionThree .container .row .item-content {
+  width: 100%;
+  background-color: #F2F2F2;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  position: relative;
+}
+
+.sectionThree .container .row .item-content img {
+  position: absolute;
+  top: -40%;
+  left: 40%;
+}
+
+.sectionThree .container .row img {
+  padding-top: 40px;
+}
+
+.sectionfour {
+  background-color: #FF5437;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.sectionfour .container .row div h2 {
+  font-size: 90px;
+  font-weight: 400;
+}
+
+.sectionfour .container .row div h6 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.sectionFive {
+  background-color: #E5E5E5;
+  padding-top: 100px;
+}
+
+.sectionFive .container .row .sectionFive-item {
+  padding-top: 77px;
+}
+
+.sectionFive .container .row .sectionFive-item h6 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.sectionFive .container .row .sectionFive-item h2 {
+  font-weight: 400;
+}
+
+.sectionSix {
+  background-color: #F2F2F2;
+  padding-top: 100px;
+}
+
+.sectionSix .container .row .sectionsSex-item {
+  padding-top: 77px;
+}
+
+.sectionSeven {
+  background-color: #222222;
+  padding-top: 100px;
+  padding-bottom: 160px;
+}
+
+.sectionSeven .sevenMood {
+  padding-top: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-left: 20px;
+}
+
+.sectionSeven .sevenMood .sevenMoodOne {
+  padding-right: 50px;
+}
+
+.sectionSeven .sevenImg {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.sectionSeven .sevenImg .dark-img {
+  border-bottom: 3px solid white;
+}
+
+.light {
+  display: block;
+  margin: 0 auto;
+}
+
+.sectionEight {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.sectionEight .container .eightColmn {
+  padding-top: 50px;
+}
+
+.sectionEight .container .eightColmn .color-blue {
+  color: #0278ED;
+}
+
+.sectionEight .container .eightColmn .color-blue a {
+  background-color: #0278ED;
+}
+
+.sectionEight .container .eightColmn .color-orange {
+  color: #FF5437;
+}
+
+.sectionEight .container .eightColmn .color-orange a {
+  background-color: #FF5437;
+}
+
+.sectionEight .container .eightColmn .color-yellow {
+  color: #FF9209;
+}
+
+.sectionEight .container .eightColmn .color-yellow a {
+  background-color: #FF9209;
+}
+
+.sectionEight .container .row .col-12 p {
+  font-size: 18px;
+}
+
+.sectionEight .container .row .itemss {
+  background-color: #F2F2F2;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 20px;
+  margin-top: 15px;
+}
+
+.sectionEight .container .row .itemss h5 {
+  font-size: 18px;
+}
+
+.sectionEight .container .row .itemss a {
+  padding: 10px 25px 12px 25px;
+  border-radius: 10px;
+}
+
+.sectionEight .container .row .itemss h2 {
+  font-size: 108px;
+  font-family: Poppins;
+  font-weight: 400;
+}
+
+.sectionEight .container .row .itemss a {
+  text-decoration: none;
+}
+
+.sectionNine {
+  background-color: #F2F2F2;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.sectionNine .container .nineColumn {
+  padding-top: 50px;
+}
+
+.sectionNine .container .row .col-12 p {
+  font-size: 18px;
+}
+
+.sectionNine .container .row .nineItem {
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px 40px;
+  margin-top: 15px;
+}
+
+.sectionNine .container .row .nineItem .nineImg {
+  padding-top: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.sectionNine .container .row .nineItem .nineImg div {
+  margin-left: 5px;
+}
+
+.sectionTen {
+  padding-top: 100px;
+  padding-bottom: 140px;
+}
+
+.sectionTen .sectionTenColumn {
+  padding-bottom: 30px;
+}
+
+.sectionTen .sectionTenColumn p {
+  font-size: 18px;
+}
+
+.sectionTen .sectionTenImg {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.sectionEleven {
+  background-color: #E5E5E5;
+  padding-top: 105px;
+  padding-bottom: 100px;
+  font-weight: 400;
+}
+
+.sectionEleven .container .row .col-lg-6 span {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.sectionEleven .container .row .col-lg-6 h5 {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.sectionEleven .container .row .sectionEleventwo {
+  padding-top: 88px;
+}
+
+.sectiontwelve {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #F2F2F2;
+}
+
+.sectiontwelve .text-center p span {
+  color: #B1B1B1;
+}
+
+.sectiontwelve .icons {
+  padding-top: 27px;
+  padding-bottom: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.sectiontwelve .icons img {
+  margin-left: 20px;
+}
+
+.sectiontwelve .twelwe {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media (max-width: 570px) {
+  .buttomLink {
+    display: block;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 770px) {
+  .buttomLink {
+    margin-bottom: 15px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
